@@ -23,7 +23,7 @@ $ cd Content-Sharing-Blockchain-Application
 
   - Windows
   ```
-  > set FLASK_APP=hello
+  > set FLASK_APP=server
   > flask run --port 8000
   ```
 - Run the Application on different terminal
